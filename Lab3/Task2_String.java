@@ -1,8 +1,8 @@
 class Binary{
-	public static void main(String []abcd){
-		String A[]={"Sameer","ali","dude","fayaz","taha","hadi","sami"};
+	public static void main(String []abcd){						
+		String A[]={"Areeza","Dua","Iqra","Nimra","Sameer"};	
 		int n=A.length;
-		String x="dude";
+		String x="Areeza";
 		boolean Notfound=false;
 		int lowerBound=1;
 		int upperBound=n;
